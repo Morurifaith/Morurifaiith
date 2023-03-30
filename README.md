@@ -23,4 +23,4 @@ I am Faith Moruri, an **associate data science consultant** based in Kenya worki
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Morurifaith&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morurifaith&hide=TeX&layout=compact&theme=prussian)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Morurifaith.Morurifaith.visitor-badge&left_color=red&right_color=green) 
-[![Morurifaith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morurifaith)](https://github.com/anuraghazra/github-readme-stats)
+
