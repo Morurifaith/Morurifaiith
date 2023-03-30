@@ -24,3 +24,4 @@ I am Faith Moruri, an **associate data science consultant** based in Kenya worki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morurifaith)](https://github.com/anuraghazra/github-readme-stats)
