@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Faith Moruri, a **associate consultant** based in Kenya working at Nathan Claire Africa. Having around 2 years of experience in full-stack data science. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Faith Moruri, an **associate data science consultant** based in Kenya working at Nathan Claire Africa. I have around 2 years of experience in full-stack data science. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faith-moruri/)
 
