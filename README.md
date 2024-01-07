@@ -8,7 +8,6 @@ I am Faith Moruri, an **associate data science consultant** based in Kenya worki
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -22,5 +21,5 @@ I am Faith Moruri, an **associate data science consultant** based in Kenya worki
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Morurifaith&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morurifaith&hide=TeX&layout=compact&theme=prussian)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Morurifaith.Morurifaith.visitor-badge&left_color=red&right_color=green) 
+
 
